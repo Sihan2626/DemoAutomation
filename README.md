@@ -1,2 +1,2 @@
 # DemoAutomation
-Web Automation demo for client
+Web Automation demo for client framework
